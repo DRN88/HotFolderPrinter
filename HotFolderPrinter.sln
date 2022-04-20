@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotFolderPrinter", "HotFolderPrinter.csproj", "{7B297960-1F82-436C-A294-1CE1ED839969}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "HotFolderPrinterSetup", "HotFolderPrinterSetup\HotFolderPrinterSetup.vdproj", "{E78DE873-0B6E-4B92-A785-89234247B2DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{7B297960-1F82-436C-A294-1CE1ED839969}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B297960-1F82-436C-A294-1CE1ED839969}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B297960-1F82-436C-A294-1CE1ED839969}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E78DE873-0B6E-4B92-A785-89234247B2DF}.Debug|Any CPU.ActiveCfg = Debug
+		{E78DE873-0B6E-4B92-A785-89234247B2DF}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
